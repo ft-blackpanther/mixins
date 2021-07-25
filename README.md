@@ -1,6 +1,6 @@
 # Mixins
 
-![vue mixin image](/assets/vue-mixin.jpg)
+![vue mixin image](https://i.imgur.com/rspToHb.jpg)
 
 ## What are Mixins?
 Mixins in Vue JS are basically a chunk of defined logic, stored in a particular prescribed way by Vue, which can be re-used over and over to add functionality to your Vue instances and components. So Vue mixins can be shared between multiple Vue components without the need to repeat code blocks.
