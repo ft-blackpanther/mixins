@@ -29,6 +29,8 @@ var Component = Vue.extend({
 var component = new Component() // => "hello from mixin!"
 ```
 
+[button url="http://www.google.com"]
+
 ## Types of Mixins
 There are two types of mixins in Vue:
 1. **Local Mixins:** It is scoped to the component it is imported into and registered in. The powers of the local mixin is bound by the component it is imported in.
