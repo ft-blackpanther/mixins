@@ -29,7 +29,7 @@ var Component = Vue.extend({
 var component = new Component() // => "hello from mixin!"
 ```
 
-[button url="http://www.google.com"]
+[![Edit JSX - Element: React.createElement](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/jsx-element-reactcreateelement-ce1g1?autoresize=1&fontsize=14&hidenavigation=1&theme=dark)
 
 ## Types of Mixins
 There are two types of mixins in Vue:
